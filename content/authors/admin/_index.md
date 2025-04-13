@@ -28,7 +28,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:L.Zellinger@sms.ed.ac.uk'
   - icon: brands/x
-    url: https://twitter.com/lena_zellinger
+    url: https://bsky.app/profile/lenazellinger.bsky.social
   - icon: brands/github
     url: https://github.com/LenaZellinger
   - icon: academicons/google-scholar
@@ -48,8 +48,8 @@ education:
   - area: BSc in Statistics, 2020
     institution: University of Vienna
 ---
-I am an [ELLIS](https://ellis.eu/) PhD student, supervised by [Dr. Antonio Vergari](http://nolovedeeplearning.com/) and [Dr. Nikolay Malkin](https://malkin1729.github.io/) at the University of Edinburgh, as well as [Dr. Vincent Fortuin](https://fortuin.github.io/) at Helmholtz AI and TU Munich. As such, I am a member of the [APRIL](https://april-tools.github.io/) and [ELPIS](https://fortuinlab.github.io/) research labs.
+Hi! I am a first-year [ELLIS](https://ellis.eu/) PhD student at the University of Edinburgh, supervised by [Dr. Antonio Vergari](http://nolovedeeplearning.com/), [Dr. Nikolay Malkin](https://malkin1729.github.io/) and [Dr. Vincent Fortuin](https://fortuin.github.io/). I am part of the [APRIL lab](https://april-tools.github.io/) at the University of Edinburgh and the [ELPIS lab](https://fortuinlab.github.io/) at Helmholtz AI and TU Munich.
 
-I am broadly interested in anything related to neuro-symbolic reasoning and uncertainty quantification. Specifically, I am eager to understand how and when we can satisfy constraints, such as safety rules or domain knowledge, in our deep learning systems to ensure their safe deployment in practice. At the same time, I aim to develop methods that are interpretable and computationally efficient. 
+My main research interests include neuro-symbolic modeling and uncertainty quantification. In particular, I am eager to understand when and how we can satisfy constraints in our deep learning systems while providing well-calibrated predictions. At the same time, I aim to develop methods that are computationally efficient and can be scaled to complex problems. For instance, I have lately been working on [scalable expectation estimation with subtractive mixutre models](https://arxiv.org/abs/2503.21346).
 
-If you are excited about similar topics, feel free to reach out, as I am always happy to discuss and collaborate.
+If you are excited about similar topics, reach out - I am always happy to discuss!
