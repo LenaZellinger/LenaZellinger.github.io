@@ -28,28 +28,27 @@ profiles:
   - icon: at-symbol
     url: 'mailto:L.Zellinger@sms.ed.ac.uk'
   - icon: brands/x
-    url: https://bsky.app/profile/lenazellinger.bsky.social
+    url: https://twitter.com/lena_zellinger
   - icon: brands/github
     url: https://github.com/LenaZellinger
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=JVsrfAYAAAAJ&hl=com
 
 interests:
-  - Tractable probabilistic modeling
-  - Computational statistics
+  - Probabilistic machine learning
+  - Variational inference
   - Uncertainty quantification
-  - Neuro-symbolic AI
 
 education:
-  - area: PhD at the Institute for Adaptive and Neural Computation, current
+  - area: PhD at the Institute for Machine Learning, current
     institution: University of Edinburgh
   - area: MSc in Data Science, 2022
     institution: University of Vienna
   - area: BSc in Statistics, 2020
     institution: University of Vienna
 ---
-Hi! I am a first-year [ELLIS](https://ellis.eu/) PhD student at the University of Edinburgh, supervised by [Dr. Antonio Vergari](http://nolovedeeplearning.com/), [Dr. Nikolay Malkin](https://malkin1729.github.io/) and [Dr. Vincent Fortuin](https://fortuin.github.io/). I am part of the [APRIL lab](https://april-tools.github.io/) at the University of Edinburgh and the [ELPIS lab](https://fortuinlab.github.io/) at Helmholtz AI and TU Munich.
+I am an [ELLIS](https://ellis.eu/) PhD student at the University of Edinburgh, supervised by [Antonio Vergari](http://nolovedeeplearning.com/), [Nikolay Malkin](https://malkin1729.github.io/) and [Vincent Fortuin](https://fortuin.github.io/). I'm happy to be part of the [APRIL lab](https://april-tools.github.io/) at the University of Edinburgh and the [ELPIS lab](https://fortuinlab.github.io/) at Helmholtz AI and TU Munich.
 
-My main research interests include neuro-symbolic modeling and uncertainty quantification. In particular, I am eager to understand when and how we can satisfy constraints in our deep learning systems while providing well-calibrated predictions. At the same time, I aim to develop methods that are computationally efficient and can be scaled to complex problems. For instance, I have lately been working on [scalable expectation estimation with subtractive mixutre models](https://arxiv.org/abs/2503.21346).
+I'm broadly interested in approximate Bayesian inference and uncertainty quantification. Currently, I am mostly working on variational inference (VI), aiming to derive [formal guarantees for when VI will successfully recover certain characteristics of the target distribution](https://arxiv.org/pdf/2604.21407).
 
-If you are excited about similar topics, reach out - I am always happy to discuss!
+If you are excited about similar topics, reach out - I am always happy to chat!
