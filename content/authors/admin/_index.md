@@ -46,13 +46,14 @@ education:
     institution: University of Vienna
   - area: BSc in Statistics, 2020
     institution: University of Vienna
-
-news:
-  - "Very happy to present our poster on [how to use subtrative mixture models for approximate inference](https://arxiv.org/abs/2604.16714) at AISTATS 2026
-and give a contributed talk at the OPTIMAL@AISTATS workshop on [robust variational inference with location-scale families](https://arxiv.org/pdf/2604.21407)."
 ---
 I am an [ELLIS](https://ellis.eu/) PhD student at the University of Edinburgh, supervised by [Antonio Vergari](http://nolovedeeplearning.com/), [Nikolay Malkin](https://malkin1729.github.io/) and [Vincent Fortuin](https://fortuin.github.io/). I'm happy to be part of the [APRIL lab](https://april-tools.github.io/) at the University of Edinburgh and the [ELPIS lab](https://fortuinlab.github.io/) at Helmholtz AI and TU Munich.
 
 I'm broadly interested in approximate Bayesian inference and uncertainty quantification. Currently, I am mostly working on variational inference (VI), aiming to derive [formal guarantees for when VI will successfully recover certain characteristics of the target distribution](https://arxiv.org/pdf/2604.21407).
 
 If you are excited about similar topics, reach out - I am always happy to chat!
+
+## News
+
+I'm very happy to present our poster on [how to use subtrative mixture models for approximate inference](https://arxiv.org/abs/2604.16714) at AISTATS 2026
+and give a contributed talk at the OPTIMAL@AISTATS workshop on [robust variational inference with location-scale families](https://arxiv.org/pdf/2604.21407)."
