@@ -22,9 +22,9 @@ sections:
 
   - block: collection
     content:
-    title: News
-    filters:
-      folders:
-        - news
+      title: News
+      filters:
+        folders:
+          - news
 ---
 
