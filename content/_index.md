@@ -20,7 +20,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
 
-  - block: pages
+  - block: collection
     content:
     title: News
     filters:
