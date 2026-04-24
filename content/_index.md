@@ -20,11 +20,13 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
 
-  - block: collection
+  - block: markdown
     content:
       title: News
       filters:
         folders:
           - news
+    design:
+      view: compact
 ---
 
