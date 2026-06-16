@@ -1,0 +1,83 @@
+
+
+html {
+  font-size: 20px; /* default is usually 16px */
+}
+
+html,
+body,
+.page-wrapper,
+.home-section {
+    background-color: #2e2f38 !important;
+}
+
+.home-section {
+  background-color: #f3f4f6 !important;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1.1rem; }
+h5 { font-size: 1rem; }
+h6 { font-size: 0.9rem; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: initial;
+}
+
+body[data-section="blog"] .nav-link {
+  font-size: 1.1rem;
+}
+
+.news-item {
+  margin-bottom: 1.25rem;
+}
+
+/* tag styling */
+.news-tag {
+  font-weight: 500;
+  margin-right: 0; /* no gap */
+  white-space: nowrap;
+}
+
+.news-content {
+  display: inline;
+  color: var(--color-text);
+}
+
+.news-content p {
+  display: inline;
+  margin: 0;
+}
+
+.avatar-wrapper {
+  width: 50% !important;
+  height: auto !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: flex-start !important; /* IMPORTANT */
+  max-height: none !important;
+}
+
+.avatar-wrapper img {
+  width: 150px !important;
+  height: 150px !important;
+
+  max-height: none !important;
+  max-width: none !important;
+
+
+  object-fit: cover;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+}
+
+section {
+  padding-top: 0x !important;
+  padding-bottom: 0px !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+

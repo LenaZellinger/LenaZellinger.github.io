@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: dark
-  color: purple
+  color: sky
   
 # SEO
 marketing:
@@ -35,7 +35,7 @@ header:
     show_search: false
     show_theme_chooser: false
     logo:
-      text: "Lena Zellinger"
+      text: "Welcome!"
 
 # Site footer
 footer:
@@ -55,6 +55,8 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
+
+

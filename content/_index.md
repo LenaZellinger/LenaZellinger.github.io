@@ -1,23 +1,27 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Lena Zellinger"
 date: 2022-10-24
 type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "0.5rem"
   css_class: dark
-
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
       button:
         text: Download CV
         url: uploads/resume.pdf
+  - block: collection
+    content:
+      page_type: news
+      count: 1
+      sort_by: date
+      sort_ascending: false
+      view: list
+      title: "Latest News"
 ---
-

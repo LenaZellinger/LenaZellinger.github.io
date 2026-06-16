@@ -1,0 +1,33 @@
+{{ define "main" }}
+<main class="container mx-auto px-4 py-8">
+
+  <h1 class="text-3xl font-bold mb-8">{{ .Title }}</h1>
+
+  <div class="space-y-6">
+
+    {{ range .Pages.ByDate.Reverse }}
+      <article class="news-item">
+
+        <!-- TITLE ROW: TAG + TITLE INLINE -->
+        <div class="flex items-baseline gap-0 leading-tight">
+
+          {{ with .Params.tags }}
+            {{ range . }}
+              <span class="news-tag">[{{ . }}]</span>
+            {{ end }}
+          {{ end }}
+
+        </div>
+
+        <!-- CONTENT -->
+        <div class="news-content prose mt-1">
+          {{ .Content }}
+        </div>
+
+      </article>
+    {{ end }}
+
+  </div>
+
+</main>
+{{ end }}

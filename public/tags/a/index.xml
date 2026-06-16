@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/a/</link>
+      <atom:link href="http://localhost:1313/tags/a/index.xml" rel="self" type="application/rss+xml" />
+    <description>A</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>A</title>
+      <link>http://localhost:1313/tags/a/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/news/aistats2026/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/aistats2026/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m very happy to present our poster on 
+ at AISTATS 2026 and give a contributed talk at the OPTIMAL@AISTATS workshop on 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
